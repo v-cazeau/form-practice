@@ -12,7 +12,7 @@ Building a React app with onchange functionality for an HTML form for BocaCode i
 * Form Elements
 * Controlled Components
 * Coded in React
-* Deployed through Firebase
+* Deployed on Firebase
 
 ## Basic Code
 ```
