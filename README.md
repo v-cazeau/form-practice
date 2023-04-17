@@ -2,7 +2,7 @@
 
 Building a React app with onchange functionality for an HTML form for BocaCode in class practice. 
 
-![screenshot](./public/images/readme.png)
+[![screenshot](./public/images/readme.png)](https://form-practice-vc.web.app/)
 
 ## Website Link
 [See Link](https://form-practice-vc.web.app/)
